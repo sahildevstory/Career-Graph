@@ -467,12 +467,5 @@ MIT
 
 ---
 
-## Contact
-
-**WEXA AI Assignment:** Reply to assignment email  
-**CognoDB Support:** cognodb@wexa.ai
-
----
-
 **Status:** Production-ready, ready for submission  
 **Last Updated:** August 12, 2026
