@@ -187,8 +187,8 @@ From the CognoDB Console:
 ### 3. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/careergraph.git
-cd careergraph
+git clone https://github.com/sahildevstory/Career-Graph.git
+
 ```
 
 ### 4. Configure Environment
@@ -367,13 +367,6 @@ vercel --prod
 # NEO4J_URI=bolt+s://...
 # NEO4J_PASSWORD=...
 ```
-
-### Alternative Hosting
-
-- **Railway:** Click "Deploy" at [railway.app](https://railway.app)
-- **Render:** Create Web Service at [render.com](https://render.com)
-- **AWS Amplify:** Console at [console.aws.amazon.com/amplify](https://console.aws.amazon.com/amplify)
-
 ---
 
 ## Development
@@ -452,12 +445,6 @@ NEO4J_USERNAME=cognodb
 - TypeScript strict mode passing
 - ESLint validation passing
 - Production build successful
-
-⏳ **Pending**
-- [ ] GitHub repository created
-- [ ] Hosted demo deployed (Vercel/Railway/Render)
-- [ ] Screen recording uploaded
-- [ ] Submission email sent to hr@wexa.ai
 
 ---
 
